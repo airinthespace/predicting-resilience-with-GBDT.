@@ -13,39 +13,8 @@ output:
 ```r
 library(readr)
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 library(reshape2)
 library(tidyr)
-```
-
-```
-## 
-## Attaching package: 'tidyr'
-```
-
-```
-## The following object is masked from 'package:reshape2':
-## 
-##     smiths
 ```
 
 outcome variable: employment rates
